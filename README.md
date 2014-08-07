@@ -1,0 +1,4 @@
+combinatorics
+=============
+
+Combinatorial template functions.
